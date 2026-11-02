@@ -1,0 +1,15 @@
+﻿<resources>
+    <color name="background">#F1F6F3</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="text_primary">#18342D</color>
+    <color name="text_secondary">#536B64</color>
+    <color name="accent">#347A68</color>
+    <color name="divider">#DCE8E1</color>
+    <color name="icon_tint">#DDEEE6</color>
+    <color name="widget_background">#F1F6F3</color>
+    <color name="widget_card_background">#FFFFFF</color>
+    <color name="widget_text_primary">#18342D</color>
+    <color name="widget_text_secondary">#536B64</color>
+    <color name="widget_accent">#347A68</color>
+    <color name="widget_divider">#DCE8E1</color>
+</resources>

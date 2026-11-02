@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#83C4A8</color>
+    <color name="background">#111A16</color>
+    <color name="divider">#34483F</color>
+    <color name="icon_tint">#294238</color>
+    <color name="panel">#1B2822</color>
+    <color name="text_primary">#E5F0EA</color>
+    <color name="text_secondary">#B4C7BE</color>
+    <color name="widget_accent">#83C4A8</color>
+    <color name="widget_background">#17241F</color>
+    <color name="widget_card_background">#22332D</color>
+    <color name="widget_divider">#34483F</color>
+    <color name="widget_text_primary">#E5F0EA</color>
+    <color name="widget_text_secondary">#B4C7BE</color>
+    <style name="Theme.DailyFocus" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSurface">@color/panel</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

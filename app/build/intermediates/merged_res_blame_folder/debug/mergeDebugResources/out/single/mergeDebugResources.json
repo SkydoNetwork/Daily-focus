@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\xml_daily_vocabulary_widget_info.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\xml\\daily_vocabulary_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_activity_word_details.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\activity_word_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_activity_vocabulary_library.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\activity_vocabulary_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_widget_daily_vocabulary.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\widget_daily_vocabulary.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\drawable_widget_word_card.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\drawable\\widget_word_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\drawable_rounded_card.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\drawable\\rounded_card.xml"
+    },
+    {
+        "merged": "com.personal.dailyfocus.app-debug-31:/layout_widget_daily_vocabulary.xml.flat",
+        "source": "com.personal.dailyfocus.app-main-33:/layout/widget_daily_vocabulary.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\layout_activity_edit_priorities.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\layout\\activity_edit_priorities.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\drawable_circle_icon.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\drawable\\circle_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.2" type="conditional_incidents">
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="Unnecessary; SDK_INT is always >= 31">
+        <fix-replace
+            description="Delete tools:targetApi"
+            replacement=""
+            priority="0">
+            <range
+                file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/xml/daily_vocabulary_widget_info.xml"
+                startOffset="677"
+                endOffset="696"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/xml/daily_vocabulary_widget_info.xml"
+            line="16"
+            column="5"
+            startOffset="677"
+            endLine="16"
+            endColumn="24"
+            endOffset="696"/>
+        <map>
+            <condition minGE="ffffffffc0000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="Unnecessary; SDK_INT is always >= 27">
+        <fix-replace
+            description="Delete tools:targetApi"
+            replacement=""
+            priority="0">
+            <range
+                file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values-night/themes.xml"
+                startOffset="405"
+                endOffset="428"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values-night/themes.xml"
+            line="6"
+            column="55"
+            startOffset="405"
+            endLine="6"
+            endColumn="78"
+            endOffset="428"/>
+        <map>
+            <condition minGE="fffffffffc000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="Unnecessary; SDK_INT is always >= 27">
+        <fix-replace
+            description="Delete tools:targetApi"
+            replacement=""
+            priority="0">
+            <range
+                file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/themes.xml"
+                startOffset="399"
+                endOffset="422"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/themes.xml"
+            line="6"
+            column="55"
+            startOffset="399"
+            endLine="6"
+            endColumn="78"
+            endOffset="422"/>
+        <map>
+            <condition minGE="fffffffffc000000"/>
+        </map>
+    </incident>
+
+</incidents>

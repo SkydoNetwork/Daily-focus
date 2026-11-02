@@ -1,0 +1,155 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\NONSO\\.gradle\\daemon\\8.13\\com.personal.dailyfocus.app-mergeDebugResources-29:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\NONSO\\Desktop\\software projects\\DailyFocus\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "6,2,7,8,3,4,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "242,57,284,327,103,144,192",
+                        "endColumns": "40,44,41,43,39,46,48",
+                        "endOffsets": "278,97,321,366,138,186,236"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,141,183,227,267,314",
+                        "endColumns": "40,44,41,43,39,46,48",
+                        "endOffsets": "91,136,178,222,262,309,358"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\Desktop\\software projects\\DailyFocus\\app\\src\\main\\res\\values-night\\widget_colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "363,411,463,520,569,623",
+                        "endColumns": "47,51,56,48,53,55",
+                        "endOffsets": "406,458,515,564,618,674"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\.gradle\\caches\\8.13\\transforms\\6d4b12dfdcbf20570e0d0b7662b340ae\\transformed\\material-1.12.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1311,1386,1497,1586,1687,1794,1901,2000,2107,2210,2337,2425,2549,2651,2753,2869,2971,3085,3213,3329,3451,3587,3707,3841,3961,4073,4288,4405,4529,4659,4781,4919,5053,5169",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1381,1492,1581,1682,1789,1896,1995,2102,2205,2332,2420,2544,2646,2748,2864,2966,3080,3208,3324,3446,3582,3702,3836,3956,4068,4194,4400,4524,4654,4776,4914,5048,5164,5284"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\.gradle\\caches\\8.13\\transforms\\a8c5ec13ca1ff1d6ca6bbafc52aab768\\transformed\\appcompat-1.7.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,48",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "679,749,833,917,1013,1115,1217,4199",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "744,828,912,1008,1110,1212,1306,4283"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.personal.dailyfocus.app-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\NONSO\\Desktop\\software projects\\DailyFocus\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,141,186,228,272,312,359",
+                        "endColumns": "40,44,41,43,39,46,48",
+                        "endOffsets": "136,181,223,267,307,354,403"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\Desktop\\software projects\\DailyFocus\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "64",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "825"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1356",
+                        "endLines": "33",
+                        "endColumns": "12",
+                        "endOffsets": "2104"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\Desktop\\software projects\\DailyFocus\\app\\src\\main\\res\\values-night\\widget_colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "408,456,508,565,614,668",
+                        "endColumns": "47,51,56,48,53,55",
+                        "endOffsets": "451,503,560,609,663,719"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\.gradle\\caches\\8.13\\transforms\\6d4b12dfdcbf20570e0d0b7662b340ae\\transformed\\material-1.12.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67,68",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2109,2184,2295,2384,2485,2592,2699,2798,2905,3008,3135,3223,3347,3449,3551,3667,3769,3883,4011,4127,4249,4385,4505,4639,4759,4871,5086,5203,5327,5457,5579,5717,5851,5967",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "2179,2290,2379,2480,2587,2694,2793,2900,3003,3130,3218,3342,3444,3546,3662,3764,3878,4006,4122,4244,4380,4500,4634,4754,4866,4992,5198,5322,5452,5574,5712,5846,5962,6082"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NONSO\\.gradle\\caches\\8.13\\transforms\\a8c5ec13ca1ff1d6ca6bbafc52aab768\\transformed\\appcompat-1.7.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,60",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "724,794,878,962,1058,1160,1262,4997",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "789,873,957,1053,1155,1257,1351,5081"
+                    }
+                }
+            ]
+        }
+    ]
+}

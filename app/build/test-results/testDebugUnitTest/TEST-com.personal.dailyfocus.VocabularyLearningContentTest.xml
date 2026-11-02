@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personal.dailyfocus.VocabularyLearningContentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-02T05:57:11.642Z" hostname="SKYDO-PC" time="0.048">
+  <properties/>
+  <testcase name="requestedWordFamiliesIncludeTheirCommonPartsOfSpeechAndConjugations" classname="com.personal.dailyfocus.VocabularyLearningContentTest" time="0.036"/>
+  <testcase name="everyBundledWordHasAnExplainedProfileAndUsablePracticeContent" classname="com.personal.dailyfocus.VocabularyLearningContentTest" time="0.009"/>
+  <testcase name="unfamiliarWordsFallBackToTheirStoredMeaningWithoutInventedForms" classname="com.personal.dailyfocus.VocabularyLearningContentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

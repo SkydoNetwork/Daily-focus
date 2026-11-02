@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.personal.dailyfocus.BootReceiver"
+                    boolean="true"/>
+                <entry
+                    name="com.personal.dailyfocus.DailyVocabularyWidget"
+                    boolean="true"/>
+                <entry
+                    name="com.personal.dailyfocus.HomeActivity"
+                    boolean="true"/>
+                <entry
+                    name="com.personal.dailyfocus.UnlockReceiver"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.string.widget_forms"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="47"
+            column="13"
+            startOffset="3539"
+            endLine="47"
+            endColumn="32"
+            endOffset="3558"/>
+        <location id="R.string.widget_forms_unavailable"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="48"
+            column="13"
+            startOffset="3592"
+            endLine="48"
+            endColumn="44"
+            endOffset="3623"/>
+        <entry
+            name="model"
+            string="color[icon_tint(U),panel(U),divider(U),widget_background(U),widget_divider(U),widget_card_background(U),text_primary(U),accent(U),text_secondary(U),widget_text_primary(U),widget_text_secondary(U),widget_accent(U),background(U)],drawable[circle_icon(U),ic_launcher_foreground(U),rounded_card(U),widget_background(U),widget_word_card(U)],id[readingInput(U),tradingInput(U),codingInput(U),designingInput(U),cancelButton(U),saveButton(U),homeReading(U),homeTrading(U),homeCoding(U),homeDesigning(U),editActivitiesButton(U),openDailyDisplayButton(U),savedWordsButton(U),vocabularyHistoryButton(U),wordReviewButton(U),screenOnSetupCard(U),lockScreenFocusSwitch(U),screenOnStatus(U),wordOne(U),meaningOne(U),exampleOne(U),wordTwo(U),meaningTwo(U),exampleTwo(U),wordThree(U),meaningThree(U),exampleThree(U),priorityReading(U),priorityTrading(U),priorityCoding(U),priorityDesigning(U),libraryTitle(U),libraryDescription(U),libraryContent(U),detailWord(U),detailPartOfSpeech(U),saveWordButton(U),detailMeaning(U),detailExample(U),detailForms(U),verbConjugationSection(U),detailVerbConjugations(U),detailSynonyms(U),detailAntonyms(U),widgetRoot(U),widgetEmptyMessage(U),widgetEntryOne(U),widgetWordOne(U),widgetMeaningOne(U),widgetExampleOne(U),widgetEntryTwo(U),widgetWordTwo(U),widgetMeaningTwo(U),widgetExampleTwo(U),widgetEntryThree(U),widgetWordThree(U),widgetMeaningThree(U),widgetExampleThree(U)],layout[activity_edit_priorities(U),activity_home(U),activity_main(U),activity_vocabulary_library(U),activity_word_details(U),widget_daily_vocabulary(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],string[app_name(U),edit_priorities(U),creator_branding(U),activity_reading(U),activity_trading(U),activity_coding(U),activity_designing(U),cancel(U),save(U),daily_focus(U),home_intro(U),what_to_do_today(U),reading_icon(U),trading_icon(U),coding_icon(U),designing_icon(U),edit_activities(U),open_daily_display(U),saved_words_title(U),vocabulary_history_title(U),word_review_title(U),lock_screen_focus_title(U),lock_screen_focus_description(U),todays_vocabulary(U),word_number_one(U),word_number_two(U),word_number_three(U),reading_placeholder(U),trading_placeholder(U),coding_placeholder(U),designing_placeholder(U),meaning_label(U),example_label(U),word_forms_title(U),verb_conjugations_title(U),synonyms_title(U),antonyms_title(U),widget_empty_vocabulary(U),widget_learn_more(U),save_failed(U),word_meaning(U),word_example(U),screen_on_enabled(U),screen_on_disabled(U),screen_on_overlay_permission(U),screen_on_notification_permission(U),screen_on_setup_failed(U),screen_on_channel_name(U),screen_on_channel_description(U),screen_on_notification_title(U),screen_on_notification_text(U),widget_description(U),widget_forms(D),widget_forms_unavailable(D),saved_words_description(U),no_saved_words(U),vocabulary_history_description(U),no_vocabulary_history(U),word_review_description(U),no_review_words(U),no_word_forms(U),no_related_words(U),save_word(U),remove_saved_word(U),save_word_failed(U),check_answer(U),next_review_question(U),choose_review_answer(U),review_correct(U),review_try_again(U),review_meaning_prompt(U),review_form_prompt(U),review_synonym_prompt(U),review_antonym_prompt(U),review_sentence_prompt(U),verb_base(U),verb_third_person(U),verb_present_participle(U),verb_simple_past(U),verb_past_participle(U)],style[Theme_DailyFocus(U),Widget_Material3_TextInputLayout_OutlinedBox(R),Widget_Material3_Button_OutlinedButton(R),Theme_Material3_DayNight_NoActionBar(R)],xml[daily_vocabulary_widget_info(U)];d^0,f^1^2,10^3^4,11^5,4c^55^6^56^7^57^a5^58^59^5a^5b^a6^5c,4d^5d^6^56^7^5e^8^5f^f^d^60^57^2^61^58^62^59^63^5a^64^65^a6^66^67^68^69^6a,4e^5d^6^56^7^6b^f^d^6c^8^6d^6e^5f^60^57^6f^2^61^58^70^62^59^71^63^5a^72,4f^6^8,50^5d^7^6^f^73^8^74^75^76^77^78,51^10^5d^9^56^a^6b^79^11^b^7a,52^7^e,53^7^e,a4^a7^c^7^1^6,a8^87^51;;;"/>
+    </map>
+
+</incidents>
